@@ -207,8 +207,6 @@ Required: Data Description should include (at least):
 ## Data Set - (EDA)
 
 seaborn car crashes https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv 
-Count of records.
-
 
 **car crashes**
 
@@ -216,9 +214,11 @@ This dataset contains automobile insurance and fatal collision statistics for 50
 
 **Dataset Size**
 
-Total Records: 51
-
-Total Columns: 7
+| ITEM | DESCRIPTION |
+|-------|------------|
+| Name | Car Crash Data sheet|
+| Source | seaborn data repository|
+| records | 51 rows & 7 coloums|
 
 **Column Descriptions**
 
