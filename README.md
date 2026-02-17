@@ -1,4 +1,3 @@
-# datafun-06-eda
 # Pro Analytics 01: Setup and Workflow Guide
 
 This repository provides a clear, concise guide to help set up a machine for Python projects,
