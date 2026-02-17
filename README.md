@@ -204,7 +204,8 @@ They are mostly interesting from a state-of-the-art perspective.
 Feel free to ask questions in the [GitHub Discussions](https://github.com/denisecase/pro-analytics-01/discussions) or raise a [GitHub Issue](https://github.com/denisecase/pro-analytics-01/issues) if you have suggestions or need additional clarification.
 Required: Data Description should include (at least): 
 
-**data set**
+## Data Set - (EDA)
+
 seaborn car crashes https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv 
 Count of records.
 
