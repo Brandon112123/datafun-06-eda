@@ -2,12 +2,12 @@
 
 This repository provides a clear, concise guide to for Car crash data set (EDA)
 
-## Local Git Hub Push
-'''bash
+## Local Push to Git Hub 
+```bash
 git add .
 git commit -m "....."
 git push origin main
-'''
+```
 
 ## Data Set - (EDA)
 
