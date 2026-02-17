@@ -29,17 +29,11 @@ This dataset contains automobile insurance and fatal collision statistics for 50
 | column | Description |
 |----------------------|
 |speeding | Percentage of drivers involved in fatal collisions who were speeding |
-|------------------------------------|
 |alcohol | Percentage of drivers involved in fatal collisions who had a blood alcohol level above the legal limit |
-|----------------------------|
 |not_distracted | Percentage of drivers in fatal collisions who were not distracted at the time of the accident |
-|-----------------------------|
 | no_previous | Percentage of drivers involved in fatal collisions who had no previous accidents or violations |
-|---------------------------------|
 | ins_premium | Average annual car insurance premium in the state (USD) |
-|----------------------------------|
 | ins_losses | Average insurance losses per insured driver in the state (USD) |
-|-----------------------------------|
 | abbrev | Two-letter postal abbreviation for the state|
 
 **Summary**
